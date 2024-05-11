@@ -1,0 +1,10 @@
+// const { readFileSync, writeFileSync } = require("fs");
+
+// const data1 = readFileSync("./content/subcontent/first.txt", "utf8");
+// const data2 = readFileSync("./content/subcontent/second.txt", "utf8");
+
+// writeFileSync("./content/subcontent/second.txt", " blank", { flag: "a" });
+// writeFileSync("./content/subcontent/first.txt", " blank", { flag: "a" });
+
+// console.log(data2);
+// console.log(data2);
